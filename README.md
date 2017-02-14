@@ -14,5 +14,5 @@ variable.position['key'] = 9; // TypeError: Cannot set property 'key' of undefin
 let variable = {
   position: []
 };
-variable.position['key'] = 9; // TypeError: Cannot set property 'key' of undefined
+variable.position['key'] = 9; 
 ```
